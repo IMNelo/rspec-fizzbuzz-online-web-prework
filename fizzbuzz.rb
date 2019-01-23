@@ -4,9 +4,7 @@ def fizzbuzz(int)
     "Fizz"
   if int % 5 == 0
     "Buzz"
-  if int == % 0
-    ""
-end
+  end
 end
 
 # Don't forget! This file needs to be 'required' in its spec file
